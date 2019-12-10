@@ -1,0 +1,13 @@
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\bin\Release\netcoreapp2.2\MinikubeAPI.deps.json
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\bin\Release\netcoreapp2.2\MinikubeAPI.runtimeconfig.json
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\bin\Release\netcoreapp2.2\MinikubeAPI.runtimeconfig.dev.json
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\bin\Release\netcoreapp2.2\MinikubeAPI.dll
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\bin\Release\netcoreapp2.2\MinikubeAPI.pdb
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.csproj.CoreCompileInputs.cache
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.RazorAssemblyInfo.cache
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.RazorAssemblyInfo.cs
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.AssemblyInfoInputs.cache
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.AssemblyInfo.cs
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.dll
+C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.pdb

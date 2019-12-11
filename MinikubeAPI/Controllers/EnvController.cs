@@ -15,8 +15,9 @@ namespace MinikubeAPI.Controllers
         public ActionResult<IEnumerable<string>> Get()
         {
             List<string> output = new List<string>();
-            output.Append(string.Format("Machine Name: {0}", Environment.MachineName));
-            output.Append(string.Format("OS: {0}", Environment.OSVersion));
+            output.Add("Logs:");
+            output.Add(string.Format("Machine Name: {0}", Environment.MachineName));
+            output.Add(string.Format("OS: {0}", Environment.OSVersion));
             return Ok(output);
         }
 

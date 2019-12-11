@@ -11,3 +11,17 @@ C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\obj\Release\netcoreapp2.2
 C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.RazorTargetAssemblyInfo.cache
 C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.dll
 C:\Users\vigouroc\source\repos\MinikubeAPI\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.pdb
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\bin\Release\netcoreapp2.2\MinikubeAPI.deps.json
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\bin\Release\netcoreapp2.2\MinikubeAPI.runtimeconfig.json
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\bin\Release\netcoreapp2.2\MinikubeAPI.runtimeconfig.dev.json
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\bin\Release\netcoreapp2.2\MinikubeAPI.dll
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\bin\Release\netcoreapp2.2\MinikubeAPI.pdb
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.csprojAssemblyReference.cache
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.csproj.CoreCompileInputs.cache
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.RazorAssemblyInfo.cache
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.RazorAssemblyInfo.cs
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.AssemblyInfoInputs.cache
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.AssemblyInfo.cs
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.RazorTargetAssemblyInfo.cache
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.dll
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Release\netcoreapp2.2\MinikubeAPI.pdb

@@ -25,3 +25,4 @@ C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Debug\netcoreapp2.2\M
 C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Debug\netcoreapp2.2\MinikubeAPI.RazorTargetAssemblyInfo.cache
 C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Debug\netcoreapp2.2\MinikubeAPI.dll
 C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Debug\netcoreapp2.2\MinikubeAPI.pdb
+C:\_Work\DEV\GitHubXPO\cedricvig\Kuberntes\MinikubeAPI\obj\Debug\netcoreapp2.2\MinikubeAPI.csprojAssemblyReference.cache
